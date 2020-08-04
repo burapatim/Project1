@@ -145,7 +145,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Project1.cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Project1.rc" />
